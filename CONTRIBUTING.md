@@ -52,10 +52,6 @@ export * from './modules/endsWith';
 export * from './modules/equals';
 ```
 
-> Test that your implementation can be compiled to ES5
-
-`yarn prepublish`
-
 > Write your test cases
 
 Create file `endsWith.spec.js` in folder `src`
